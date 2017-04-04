@@ -2,3 +2,4 @@ System.out.println("Hellow World");
 System.out.println("Hellow everybody");
 System.out.println("Hellow");
 System.out.println("Привет!");
+System.out.println("Рад тебя видеть!");
